@@ -1,0 +1,13 @@
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\bin\Debug\AutoСМК.exe.config
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\bin\Debug\AutoСМК.exe
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\bin\Debug\AutoСМК.pdb
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.csprojAssemblyReference.cache
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.CourseWork.resources
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.Form1.resources
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.Properties.Resources.resources
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.TypesOfWorks.resources
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.csproj.GenerateResource.cache
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.csproj.CoreCompileInputs.cache
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.exe
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.pdb
+E:\Инст\3 курс\ТП\AutoСМК\AutoСМК\obj\Debug\AutoСМК.csproj.ResolveComReference.cache
